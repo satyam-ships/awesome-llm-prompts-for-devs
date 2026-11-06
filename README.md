@@ -61,4 +61,4 @@ Write a Conventional Commit message for this diff. Subject <= 72 chars, body exp
 {{diff}}
 ```
 
-See also: [awesome-coding-agent-skills](../awesome-coding-agent-skills). License: [MIT](LICENSE).
+See also: [awesome-coding-agent-skills](https://github.com/satyam-ships/awesome-coding-agent-skills). License: [MIT](LICENSE).
